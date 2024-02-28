@@ -1,0 +1,22 @@
+h1 {
+    color: blue;}  /* seletor ,selecionara todos h1 */
+
+    h2 {
+        color: green;
+    }
+
+    #economia h2{
+    color: gold; /* estilizados usando o  "Id"*/
+    }
+
+    #esportes h2{
+        color: purple; /* estilizados usando o  "Id"*/
+    }
+
+    .creation-date {
+     color: aquamarine; /*estilizado usando class*/
+    }
+
+    * {
+        color: blueviolet; /* estiliza todos os elementos que não foram estilizados*/
+    }
